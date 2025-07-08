@@ -1,4 +1,4 @@
-# Compilation of CloudCompare 2.13+
+# Compilation of CloudCompare 2.13+ AP
 
 ## 1. Base dependencies
 
